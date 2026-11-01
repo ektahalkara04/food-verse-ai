@@ -1,0 +1,6 @@
+{
+  "name": "Food Verse AI",
+  "description": "Multimodal AI-Powered Food Intelligence Platform: Food recognition & nutrition analysis, freshness detection, restaurant hygiene audit, smart cooking assistant, and personalized meal planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
